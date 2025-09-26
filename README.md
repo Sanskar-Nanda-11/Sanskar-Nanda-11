@@ -130,5 +130,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanskar-Nanda-11 &label=Profile%20Views&color=blueviolet&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Sanskar-Nanda-11&label=Profile%20Views&color=blueviolet&style=flat" alt="views" />
 </p>
